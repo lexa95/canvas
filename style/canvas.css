@@ -1,0 +1,15 @@
+#canvas{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: black;
+    cursor: none;
+}
+
+.center {
+   position: fixed;
+}
+
+body{
+    background-color: #eee;
+}
